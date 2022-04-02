@@ -39,15 +39,15 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
+![]https://cdn.glitch.global/915fb237-0551-4375-9e17-53d1dc37cad4/prework%20gif%201.gif?v=1648866493962
+![]https://cdn.glitch.global/915fb237-0551-4375-9e17-53d1dc37cad4/prework%20gif%202.gif?v=1648866893682
+![]https://cdn.glitch.global/915fb237-0551-4375-9e17-53d1dc37cad4/prework%20gif%203.gif?v=1648867081103
 ![](gif4-link-here)
 
 ## Reflection Questions
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
-   I used the Slack pre-work support chat as the outside resourcde to aid in allowing me to complete the project.
+   I used the Slack pre-work support chat as the outside resource to aid in allowing me to complete the project.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
    One challenge I had to overcome while doing the project would have to be figuring out how to make all of the buttons turn off after the hints and sounds would be given to the player. Everything with the program and code itself looked fine after going over it multiple times, while also adding a couple things in order to see if I accidentally forgot to add a code. It was a lot of trial and error to the point where I was pressing the actual buttons themselves multiple times a day and just having that window open 24/7. I even attempted to do some online research in order to see what could be causing this small but very frustration problem to occur. Right as I feel as if I was making some form of progress, my laptop ended up dying and not being able to turn on. Which is when I found out that my laptop had gotten very severe liquid damage and would have to be taken to the apple repair warehouse where they would have to strip the entirety of the hardware. Specifically it would have to be the battery, motherboard, and all of the hardware components excluding the parts such as the keyboard, screen, and the touchpad. Meaning that it would take a minimum of about a week to get fixed, and so I had to take a couple days off of fixing the issue until we could come back on campus. Since this all occurred during the last couple days of spring break because students in on campus housing are not allowed to stay on campus during the break. So, the moment I was finally able to come back to my dorm, I rented a laptop out from the library while waiting for my laptop to get shipped to my dorm. After going over my already written and finished code for another couple times, and reaching out for help in the Slack pre-work support chat I had to make the tough and final decision of having to completely restart the code. It took me a few hours to completely finish, but when I did attempt to finally play the game, I noticed that the stop button would not turn back to the start button when pushed. But after going over the code, the mistake I made was accidentally forgetting to switch the add and remove methods in order for the stop button to disappear when pressed and the start button to appear. Which was an easy mistake to fix. After fixing it, the game was finally able to work as it was meant to, which is why I decided to include two more buttons for the player.
