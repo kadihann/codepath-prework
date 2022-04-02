@@ -4,7 +4,7 @@
 
 Submitted by: Kadidiatou Hann
 
-Time spent: 118 hours spent in total
+Time spent: 65 hours spent in total
 
 Link to project: (insert your link here, should start with https://glitch.com...)
 
