@@ -61,8 +61,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
-
+[My 5-minute Interview Recording] https://cdn.glitch.me/915fb237-0551-4375-9e17-53d1dc37cad4/prework%20interview.mp4?v=1648871159361
 ## License
 
     Copyright [Kadidiatou Hann]
